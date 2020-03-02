@@ -14,3 +14,9 @@
         background-color: red;
         box-shadow: 2px 2px 5px #000a;
     }
+.btn.btn-circle {
+    width: 40px;
+    padding: 10px 0;
+    font-size: 22px;
+    border-radius: 50%;
+}
