@@ -15,6 +15,7 @@ form {
         color: #555;
         border: none;
         border-bottom: 1.5px solid grey;
+        outline: none;
     }
     form > textarea {
         resize: vertical;
